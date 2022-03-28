@@ -7,3 +7,6 @@ console.log("This is in proper format.");
 
 
             console.log("This is to be on update without husky. not formatted.")
+
+              console.log("This is not working.")
+        
